@@ -1,2 +1,3 @@
 # College_sports_Project
-i have created this project during  third sem , this project is for an event organized by my college ,
+i have created this project during  third sem during the college organize the annual games , this project is mainly built in html and css 
+
